@@ -1,2 +1,2 @@
 # mastermind
-Command line mastermind game fot The Odin's Project
+Command line mastermind game for The Odin's Project
